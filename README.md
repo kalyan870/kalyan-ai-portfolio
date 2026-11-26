@@ -1,6 +1,7 @@
 # Kalyan AI Portfolio
 
 <p align="center"><strong>A curated index of Kalyan's AI and application projects.</strong></p>
+**Live link:** [https://kalyan-ai-portfolio.netlify.app/](https://kalyan-ai-portfolio.netlify.app/)
 
 ## Project map
 
@@ -25,3 +26,10 @@ flowchart LR
 ## About this repository
 
 This repository is an index, not a separate application: it currently contains no portfolio website source or runnable application. Follow the linked project repositories for their individual implementation status and setup instructions.
+
+## Architecture
+
+
+![kalyan-ai-portfolio architecture map](docs/images/kalyan-ai-portfolio-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/kalyan-ai-portfolio-architecture.svg)
